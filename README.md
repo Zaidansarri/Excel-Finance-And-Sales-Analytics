@@ -7,7 +7,7 @@ This report combines both **Finance** and **Sales Analytics**, providing insight
 ### **Finance Analytics**
 The Finance section delves into the company’s financial health with an emphasis on Profit & Loss and Gross Margin Analysis, segmented by markets, sub-zones, and fiscal periods.
 
-- **Gross Margin % by Quarters (Sub-Zone)**  
+- **Gross Margin % by Quarters (Sub-Zone)** https://github.com/Zaidansarri/Excel-Finance-And-Sales-Analytics/blob/main/FINANCE%20PROJECT%20REPORT/GM%20%25%20BY%20QUARTERS%20(SUB_ZONE).pdf
   Quarterly analysis of gross margins by sub-zone, offering a view of regional performance.
 - **Profit & Loss (Fiscal Month)**  
   Monthly Profit & Loss tracking, detailing revenue, expenses, and net profitability.
