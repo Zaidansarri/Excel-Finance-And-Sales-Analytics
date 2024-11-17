@@ -60,10 +60,4 @@ The Sales Analytics section explores customer trends, product performance, and m
 - [x] Strong understanding of Sales & Finance Reports.  
 - [x] Designing user-centric reports with empathy in mind.  
 - [x] Optimization of report generation through meticulous fine-tuning.  
-- [x] Developing a systematic approach to report building.  
-
-## 🚀 Getting Started  
-
-To view or interact with this report:  
-1. **Download** the `.xlsx` file from this repository.  
-2. Open the file in Excel, ensuring **Power Query** and **Power Pivot** are enabled to access data models and transformations fully.  
+- [x] Developing a systematic approach to report building.
