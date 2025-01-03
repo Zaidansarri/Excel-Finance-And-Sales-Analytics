@@ -1,7 +1,7 @@
-# 📑 Overview  
+# Overview  
 This project is a comprehensive **Finance & Sales Analytics Report** created for **AtliQ Hardware**, covering financial and sales data for the years **2019, 2020, and 2021**. As part of a bootcamp with **Codebasics**, this hands-on project focuses on financial metrics, sales performance, and data-driven insights to aid in strategic decision-making.
 
-## 📊 Project Highlights  
+## Project Highlights  
 This report integrates **Finance** and **Sales Analytics**, delivering insights into profit margins, revenue, top-performing products, customer sales trends, and more.
 
 ### **Finance Analytics**  
@@ -46,7 +46,7 @@ The Sales Analytics section explores customer trends, product performance, and m
 - **Top 10 Products**  
   Year-on-year sales growth analysis for the top 10 products, demonstrating demand trends and key products.  
 
-## 🛠 Technical & Soft Skills  
+## Technical & Soft Skills  
 
 ### **Technical Skills**  
 - [x] Proficiency in ETL methodology (Extract, Transform, Load).  
