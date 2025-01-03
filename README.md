@@ -57,7 +57,7 @@ The Sales Analytics section explores customer trends, product performance, and m
 -  Utilizing DAX to create calculated columns.  
 
 ### **Soft Skills**  
-- [x] Strong understanding of Sales & Finance Reports.  
-- [x] Designing user-centric reports with empathy in mind.  
-- [x] Optimization of report generation through meticulous fine-tuning.  
-- [x] Developing a systematic approach to report building.
+-  Strong understanding of Sales & Finance Reports.  
+-  Designing user-centric reports with empathy in mind.  
+-  Optimization of report generation through meticulous fine-tuning.  
+-  Developing a systematic approach to report building.
