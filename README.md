@@ -49,12 +49,12 @@ The Sales Analytics section explores customer trends, product performance, and m
 ## Technical & Soft Skills  
 
 ### **Technical Skills**  
-- [x] Proficiency in ETL methodology (Extract, Transform, Load).  
-- [x] Creation of a date table using Power Query.  
-- [x] Ability to derive fiscal months and quarters.  
-- [x] Establishing data model relationships with Power Pivot.  
-- [x] Incorporating supplementary data into an existing data model.  
-- [x] Utilizing DAX to create calculated columns.  
+-  Proficiency in ETL methodology (Extract, Transform, Load).  
+-  Creation of a date table using Power Query.  
+-  Ability to derive fiscal months and quarters.  
+-  Establishing data model relationships with Power Pivot.  
+-  Incorporating supplementary data into an existing data model.  
+-  Utilizing DAX to create calculated columns.  
 
 ### **Soft Skills**  
 - [x] Strong understanding of Sales & Finance Reports.  
