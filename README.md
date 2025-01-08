@@ -6,6 +6,9 @@ This project is a comprehensive **Finance & Sales Analytics Report** created for
 
 This report integrates **Finance** and **Sales Analytics**, delivering insights into profit margins, revenue, top-performing products, customer sales trends, and more.
 
+**Finance Analytics**: [Live Dashboard](http://surl.li/caonym)  
+**Sales Analytics**: [Live Dashboard 1](http://surl.li/mtjmxx), [Live Dashboard 2](http://surl.li/egoxyz)
+
 ### **Finance Analytics**
 
 The Finance section evaluates the company’s financial health, focusing on Profit & Loss and Gross Margin Analysis across markets, sub-zones, and fiscal periods.
