@@ -3,6 +3,9 @@
 This project is a comprehensive **Finance & Sales Analytics Report** created for **AtliQ Hardware**, covering financial and sales data for the years **2019, 2020, and 2021**. As part of a bootcamp with **Codebasics**, this hands-on project focuses on financial metrics, sales performance, and data-driven insights to aid in strategic decision-making.
 
 
+## Acknowledgments
+
+This project was created by the data set provided and with the guidance from [**CODEBASICS CHANNEL**](http://surl.li/nqzscw) Check out their channel for more learning and insights.
 ## **Project Highlights**
 
 This report integrates **Finance** and **Sales Analytics**, delivering insights into profit margins, revenue, top-performing products, customer sales trends, and more.
