@@ -5,7 +5,7 @@ This project is a comprehensive **Finance & Sales Analytics Report** created for
 
 ## Acknowledgments
 
-This project was created by the data set provided and with the guidance from [**CODEBASICS CHANNEL**](http://surl.li/nqzscw) Check out their channel for more learning and insights.
+This project was created by the data set provided and with guidance from [**CODEBASICS CHANNEL**](http://surl.li/nqzscw) Check out their channel for more learning and insights.
 ## **Project Highlights**
 
 This report integrates **Finance** and **Sales Analytics**, delivering insights into profit margins, revenue, top-performing products, customer sales trends, and more.
